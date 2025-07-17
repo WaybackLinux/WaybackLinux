@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**WaybackLinux/WaybackLinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **WaybackLinux** — a curious mind blending creativity with code! 🧠⚙️  
+From low-level logic to high-level UI, I speak fluent **byte** and dream in **pixels**.  
 
-Here are some ideas to get you started:
+### 💻 Languages I wield (from hardcore to high-style):
+- 🧬 **Assembly** to dive deep into the metal  
+- ⚙️ **C / C++ / C#** for performance & control  
+- 🐍 **Python** for scripts, bots, and fun  
+- 🌐 **HTML / CSS / JS** to shape the web’s look & feel  
+- ☕ **Java** (yep, even that beast)  
+- ⚡ **Bash** & **PowerShell** to rule the terminal  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> _“From C# to CSS — I bend code to my will.”_ 🔥  
+
+### 🛠️ What I'm crafting:
+- ✨ Custom Linux setups (Zorin, Endeavour, you name it!)
+- 🧨 Wild bootloaders that talk to you (literally, ASCII style)
+- 🎨 Fun little UIs in Tkinter & C#
+- 🧪 Hacky tools just to see what breaks (and then fix 'em better)
+
+### 🌌 My code = My playground.
+If it runs, I’ll tweak it. If it breaks, I’ll learn from it. If it shines, I’ll share it. 🚀
+
+---
+
+Let’s turn ideas into reality, one line at a time. ⭐  
